@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1513644027 source:c:\users\lc\desktop\rsa_ntl\main.cpp
+	"head.h"
+
+1513643955 c:\users\lc\desktop\rsa_ntl\head.h
+	<math.h>
+	<fstream>
+	<stdio.h>
+	<time.h>
+	<NTL/ZZ.h>
+
+1513644027 source:c:\users\lc\desktop\密码学实验\rsa_ntl\main.cpp
+	"head.h"
+
+1513643955 c:\users\lc\desktop\密码学实验\rsa_ntl\head.h
+	<math.h>
+	<fstream>
+	<stdio.h>
+	<time.h>
+	<NTL/ZZ.h>
+
