@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514703775 source:c:\users\lc\desktop\blind_signature\main.cpp
+	<iostream>
+	"rsa.h"
+
+1514703915 c:\users\lc\desktop\blind_signature\rsa.h
+	<math.h>
+	<fstream>
+	<stdio.h>
+	<time.h>
+	<NTL/ZZ.h>
+

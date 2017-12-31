@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1514645665 source:c:\users\lc\desktop\digital_envelope\main.cpp
+	"rsa.h"
+
+1514648446 c:\users\lc\desktop\digital_envelope\rsa.h
+	<math.h>
+	<fstream>
+	<stdio.h>
+	<time.h>
+	<NTL/ZZ.h>
+	<iostream>
+	<stdlib.h>
+
